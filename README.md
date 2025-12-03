@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="500" src="https://i.ibb.co/YBFs8Dfx/superqc.png"  />
-</div>
-
 ###
 
 # Superhero-QC
