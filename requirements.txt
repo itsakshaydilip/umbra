@@ -1,0 +1,7 @@
+# Python Requirements for Umbra
+# Maya API is included with Maya installation
+
+# UI Framework (included with Maya)
+# PySide2 (comes with Maya 2017+)
+
+# No external Python packages required - all dependencies bundled with Maya

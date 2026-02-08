@@ -1,0 +1,2 @@
+# Maya Plugins Required
+# None - This tool uses only Maya's core MEL commands and UV operations
